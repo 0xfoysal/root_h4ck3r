@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/foysal_127000" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="root_h4ack3r" alt="16446962" height="30" width="40" /></a>
+<a href="https://twitter.com/foysal_127000" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="root_h4ack3r"/></a>
 </p>
 
 
