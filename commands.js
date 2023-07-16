@@ -25,7 +25,7 @@ whoami = [
 social = [
   "<br>",
   'twitter        <a href="' + twitter + '" target="_blank">foysal_dev_' + '</a>',
-  'linkedin       <a href="' + linkedin + '" target="_blank">i_am_solo + "</a>",
+  'linkedin       <a href="' + linkedin + '" target="_blank">i_am_solo' + "</a>",
   'github         <a href="' + github + '" target="_blank">0xfoysal' + "</a>",
   "<br>"
 ];
