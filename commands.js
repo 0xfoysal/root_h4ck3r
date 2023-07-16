@@ -1,7 +1,7 @@
 
 var twitter = "https://www.twitter.com/foysal_dev_";
 var password = "foysal";
-var linkedin = "https://www.linkedin.com/in/foysalcodeio/";
+var linkedin = "https://www.linkedin.com/in/i-am-solo-453727213/";
 var github = "https://github.com/0xfoysal";
 var email = 'mailto:0xfoysal@gmail.com';
 
@@ -25,7 +25,7 @@ whoami = [
 social = [
   "<br>",
   'twitter        <a href="' + twitter + '" target="_blank">foysal_dev_' + '</a>',
-  'linkedin       <a href="' + linkedin + '" target="_blank">foysalcodeio' + "</a>",
+  'linkedin       <a href="' + linkedin + '" target="_blank">i_am_solo + "</a>",
   'github         <a href="' + github + '" target="_blank">0xfoysal' + "</a>",
   "<br>"
 ];
